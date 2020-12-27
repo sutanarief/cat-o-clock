@@ -6,11 +6,12 @@
 }
 
 /* tambah koment */
+/* test */
 
 
 body {
-    background-image: url(/img/tran-mau-tri-tam-FbhNdD1ow2g-unsplash.jpg);
-    background-color: grey;
+    background-image: url(/img/test.jpg);
+    background-color: white;
     background-size: cover;
     background-position: center;
     background-blend-mode: multiply;
@@ -33,8 +34,7 @@ h1 {
 .clock {
     width: 300px;
     height: 300px;
-    background-color: rgba(255, 211, 0, .8);
-    background-image: url(/img/tran-mau-tri-tam-FbhNdD1ow2g-unsplash.jpg);
+    background-image: url(/img/test.jpg);
     background-position: center;
     background-size: cover;
     border-radius: 50%;
