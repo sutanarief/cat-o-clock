@@ -6,11 +6,12 @@
 }
 
 /* tambah koment */
+/* test */
 
 
 body {
-    background-image: url(/img/tran-mau-tri-tam-FbhNdD1ow2g-unsplash.jpg);
-    background-color: grey;
+    background-image: url(/img/img2.jpg);
+    background-color: #1C2E4C;
     background-size: cover;
     background-position: center;
     background-blend-mode: multiply;
@@ -31,10 +32,11 @@ h1 {
 }
 
 .clock {
+    background-image: url(/img/img2.jpg);
+    background-color: white;
+    background-blend-mode: multiply;
     width: 300px;
     height: 300px;
-    background-color: rgba(255, 211, 0, .8);
-    background-image: url(/img/tran-mau-tri-tam-FbhNdD1ow2g-unsplash.jpg);
     background-position: center;
     background-size: cover;
     border-radius: 50%;
