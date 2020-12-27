@@ -10,7 +10,7 @@
 
 
 body {
-    background-image: url(/img/img2.jpg);
+    background-image: url(/img.jpg);
     background-color: #1C2E4C;
     background-size: cover;
     background-position: center;
@@ -32,7 +32,7 @@ h1 {
 }
 
 .clock {
-    background-image: url(/img/img3.jpg);
+    background-image: url(/img.jpg);
     background-color: white;
     background-blend-mode: multiply;
     width: 300px;
