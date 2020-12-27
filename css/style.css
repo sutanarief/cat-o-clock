@@ -19,6 +19,15 @@ body {
     overflow: hidden;
 }
 
+h1 {
+    font-size: 100px;
+    font-weight: bold;
+    position: absolute;
+    margin-top: -400px;
+    text-shadow: -4px -4px #69C9D0,
+        4px 4px #EE1D52;
+}
+
 .clock {
     width: 300px;
     height: 300px;
