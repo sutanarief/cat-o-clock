@@ -21,3 +21,5 @@ function setRotation(element, rotationRatio) {
 }
 
 setClock()
+
+// tambah comment
